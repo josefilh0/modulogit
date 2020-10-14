@@ -36,5 +36,4 @@ public class UsuarioController {
        return repository.save(usuario);
     }
 
-
 }
